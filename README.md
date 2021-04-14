@@ -30,7 +30,7 @@ The Nodes that are needed are:
  - Lighting module
      - used to controll the lighting in the camper
  
- -bed side control
-    - used as a low level HMI for limited control of
-    - lights
-    - heating 
+  - bed side control
+     - used as a low level HMI for limited control of
+     - lights
+     - heating 
